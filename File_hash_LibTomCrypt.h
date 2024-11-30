@@ -1,4 +1,3 @@
-//2222119 曹凯伦 信息安全2201班 2024.11.29
 #ifndef FILE_HASH_LIBTOMCRYPT_H
 #define FILE_HASH_LIBTOMCRYPT_H
 #include <iostream>

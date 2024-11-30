@@ -1,4 +1,3 @@
-//2222119 曹凯伦 信息安全2201班 2024.11.29
 #include "File_hash_self.h"
 
 // my own MD5文件哈希

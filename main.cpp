@@ -1,4 +1,3 @@
-//2222119 曹凯伦 信息安全2201班 2024.11.24
 #include "MD5.h"
 #include "SHA-1.h"
 #include "SHA-256.h"

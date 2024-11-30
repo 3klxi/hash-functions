@@ -1,4 +1,3 @@
-//2222119 曹凯伦 信息安全2201班 2024.11.24
 #ifndef SHA_256_H
 #define SHA_256_H
 #include <iostream>
