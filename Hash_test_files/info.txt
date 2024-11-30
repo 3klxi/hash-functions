@@ -1,2 +1,0 @@
-This is a test file for computing the hash digest: md5, sha1 and sha256.
-22221119 Kailun Cao Cyberspace Academy
