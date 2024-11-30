@@ -4,7 +4,6 @@
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/react-moralis)
 ![npm type definitions](https://img.shields.io/npm/types/react-moralis)
 
-</div>
 # Hash Functions
 
 这是一个哈希算法实验，包含了标准的 MD5、SHA-1、SHA-256 和 SHA-512 算法实现。在这个项目中，我们实现了这些常见的哈希算法，并展示了它们的基本方法、思想以及安全性分析。
