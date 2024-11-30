@@ -1,3 +1,5 @@
+// Copyright (c) [2024] [3klxi]
+// Licensed under the MIT License. See LICENSE file for details.
 #include "MD5.h"
 #include "SHA-1.h"
 #include "SHA-256.h"
