@@ -1,11 +1,3 @@
-<div align="center">
-    <p align="center">
-      <img src="./docs/head.png" alt="React Hook Form Logo - React hook custom hook for form validation" />
-    </p>
-</div>
-
-<div align="center">
-
 ![npm](https://img.shields.io/npm/v/react-moralis)
 ![node-current](https://img.shields.io/node/v/react-moralis)
 ![GitHub last commit](https://img.shields.io/github/last-commit/MoralisWeb3/react-moralis)
